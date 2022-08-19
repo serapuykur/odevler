@@ -21,7 +21,7 @@ public class For_While3 {
         char yenilenenKarakter=0;
         for (int i = 0; i <metin.length() ; i++) {
 
-
+//bu soruda eksiklik var  sonra cozulup eklenecek
         }
     }
 }
